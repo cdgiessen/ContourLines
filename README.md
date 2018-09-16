@@ -10,4 +10,4 @@ Included file is Mt. St. Helens post eruption.
 Requires freeglut to run.
 
 High countour line sample image output
-![](https://github.com/cdgiessen/ContourLines/blob/master/ContourLines/ContourGraphMt.St.Helens.PNG)
+![](https://github.com/cdgiessen/ContourLines/blob/master/ContourLines/contour_lines.png)
